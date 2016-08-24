@@ -1,0 +1,14 @@
+layout_spectrum: 0.06683313474059105
+typography_spectrum: 0.9487390506546944
+color:
+  brandStrength: 0.6287352405488491
+  lightness: 0.13930592872202396
+  saturation: 0.7066352595575154
+  rhythmicContrast: 0.6587450567167252
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: Propals
